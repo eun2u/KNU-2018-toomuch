@@ -1,2 +1,2 @@
-fin3 : fin3.c
-	cc fin3.c -lncurses -o fin3
+realfin : realfin.c
+	cc realfin.c -lncurses -o realfin
